@@ -1,0 +1,4 @@
+import numpy as np
+
+m1= numpy.random.randint(3,3,size=100)
+print (m1)
